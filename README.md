@@ -15,6 +15,18 @@ This Python script scrapes and downloads all images from a given website — inc
 - ✅ Option to set custom output folder
 
 ---
+## 🚀 How to Use
+```bash
+python image_scraper.py
+```
+-The script will ask for:
+
+-Website URL (e.g., https://example.com)
+
+-Output folder name (or press Enter for default: downloaded_images)
+
+
+
 
 ## 🧰 Requirements
 
@@ -29,6 +41,6 @@ This Python script scrapes and downloads all images from a given website — inc
 Install required packages:
 ```bash
 pip install selenium requests
-
+```
 
 
